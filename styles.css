@@ -1,0 +1,35 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	font-size: 12px;
+	font-family: monospace;
+}
+
+#tspace {
+	line-height: 40px;
+}
+
+#bspace {
+	line-height: 40px;
+}
+
+#logo {
+	white-space: -moz-pre-wrap;
+	color: #00ff00;
+}
+
+a:link {
+	text-decoration: none;
+	color: #00ff00;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #00ff00;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #ffffff;
+}
