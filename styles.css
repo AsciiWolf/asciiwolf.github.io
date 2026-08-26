@@ -4,6 +4,7 @@ body {
 	text-align: center;
 	font-size: 12px;
 	font-family: monospace;
+	min-width: 640px;
 }
 
 #tspace {
@@ -15,7 +16,7 @@ body {
 }
 
 #logo {
-	white-space: -moz-pre-wrap;
+	white-space: pre;
 	color: #00ff00;
 }
 
